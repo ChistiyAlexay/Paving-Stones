@@ -9,7 +9,7 @@
 
 ![](https://github.com/ChistiyAlexay/Paving-Stones/blob/main/Images/1.png?raw=true)
 
-Затем выбираем вкладку Add-ons и нажимаем кнопку install, затем выбираем скачаный файл Paving Stones.zip
+Затем выбираем вкладку Add-ons и нажимаем кнопку install, затем выбираем скаченный файл Paving Stones.zip
 
 ![](https://github.com/ChistiyAlexay/Paving-Stones/blob/main/Images/2.png?raw=true)
 

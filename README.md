@@ -62,11 +62,11 @@
 
 ![](https://github.com/ChistiyAlexay/Paving-Stones/blob/main/Images/17.png?raw=true)
 
-Теперь откроем вкладку optimization. В ней мы указываем множитель вертексов камней, то есть если указать 0.5, то вертексов станет в 2 раза меньше
+Теперь откроем вкладку optimization. В ней мы указываем множитель вертексов камней, то есть, если указать 0.5, то вертексов станет в 2 раза меньше
 
 ![](https://github.com/ChistiyAlexay/Paving-Stones/blob/main/Images/19.png?raw=true)
 
-И вес будет в разы меньше чем без оптимизации
+И вес будет в разы меньше, чем без оптимизации
 
 ![](https://github.com/ChistiyAlexay/Paving-Stones/blob/main/Images/20.png?raw=true)
 

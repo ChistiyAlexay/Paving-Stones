@@ -13,7 +13,7 @@
 
 ![](https://github.com/ChistiyAlexay/Paving-Stones/blob/main/Images/2.png?raw=true)
 
-После его включаем
+После, его включаем
 
 ![](https://github.com/ChistiyAlexay/Paving-Stones/blob/main/Images/3.png?raw=true)
 

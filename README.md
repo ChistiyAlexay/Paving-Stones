@@ -36,7 +36,7 @@
 
 ![](https://github.com/ChistiyAlexay/Paving-Stones/blob/main/Images/7.png?raw=true)
 
-Если всё устраивает то жмём Convent to mesh, и если нужно Apply The Material. Важно выбрать объект к которому применяем
+Если всё устраивает, то жмём Convent to mesh и, если нужно, Apply The Material. Важно выбрать объект к которому применяем
 
 ![](https://github.com/ChistiyAlexay/Paving-Stones/blob/main/Images/8.png?raw=true)
 

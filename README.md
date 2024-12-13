@@ -66,7 +66,7 @@
 
 ![](https://github.com/ChistiyAlexay/Paving-Stones/blob/main/Images/19.png?raw=true)
 
-И вес будет в разы меньше чем бз оптимизации
+И вес будет в разы меньше чем без оптимизации
 
 ![](https://github.com/ChistiyAlexay/Paving-Stones/blob/main/Images/20.png?raw=true)
 

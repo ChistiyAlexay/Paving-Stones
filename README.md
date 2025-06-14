@@ -5,7 +5,7 @@
 
 > 1)Установка
 
-Откроем блендер 2.8-3.6. Следует переместиться к меню слева сверху. Там нажимаем edit -> preferences
+Откроем блендер 3.6. Следует переместиться к меню слева сверху. Там нажимаем edit -> preferences
 
 ![](https://github.com/ChistiyAlexay/Paving-Stones/blob/main/Images/1.png?raw=true)
 
